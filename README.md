@@ -1,5 +1,4 @@
 # mattcrypt
-NodeJS file encryption service and interface for sensitive data types being stored on NAS
 
 ![data](https://github.com/endgrid/mattcrypt/assets/104172903/b260b7e1-2c71-4b41-bfba-b6c6b759d78f)
 

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mattcrypt</title>
+</head>
+<body>
+<form action="/uploadfile" enctype="multipart/form-data" method="POST"> 
+   <input type="file" name="myFile" />
+   <input type="submit" value="Upload selected file to be encrypted"/>
+</form>
+<form action="/uploadfileToBeDecrypted" enctype="multipart/form-data" method="POST"> 
+    <input type="file" name="myFileToBeDecrypted" />
+    <input type="submit" value="Upload selected file to be decrypted"/>
+ </form>
+</body>
+</html>
